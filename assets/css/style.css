@@ -27,6 +27,7 @@ main {
     margin: 0 20%;
 }
 
+
 nav {
     background-color: beige;
     padding: 10px;
@@ -35,6 +36,7 @@ nav {
 nav ul {
     list-style-type: none;
     text-align: center;
+    width: 100%;
 }
 
 nav li {
@@ -72,6 +74,7 @@ nav a:hover {
     font-size: 2em;
     padding: 20px;
     margin: 10px;
+    text-align: center;
 }
 
 table {
